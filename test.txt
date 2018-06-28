@@ -1,0 +1,4 @@
+<h6 style="color: #ffffff;">Click on our interactive map then hover or tap on the pins to learn more about our developments in your preferred location.</h6>
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
+<iframe src='https://geocon.com.au/wp-content/themes/geocon2016/assets/maps/GeoconProjectsMap.html' style='border:0'></iframe></div>
